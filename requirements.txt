@@ -26,7 +26,6 @@ ftfy
 hpsv2
 huggingface-hub
 idna
-image-reward
 importlib_metadata
 importlib_resources
 iniconfig
